@@ -1,6 +1,8 @@
-<p align="center">
-  <img width="320" src="http://blog.lgf196.top/ant-simple-pro-document/logon.png">
-</p>
+### Hey 👋🏽, I'm [lgf!](https://blog.lgf196.top/)
 
-:stuck_out_tongue_winking_eye: 一位会做饭的码农，antd社区成员，爱好:meat_on_bone: :spaghetti: 美食，:golf: 旅游，:muscle: 运动。
+<br/>
+我是一位`web`开发者，写写文章，博客，开源项目等，热爱跑步，打球，掌勺等 🤔。
 
+微信公众号：木子李的夏天
+[掘金](https://juejin.cn/user/3685218706795783)
+[dev](https://dev.to/lgf196)
