@@ -9,5 +9,5 @@
 
 ##### [dev](https://dev.to/lgf196)
 
- <img alt="lgf" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<!--  <img alt="lgf" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
  
